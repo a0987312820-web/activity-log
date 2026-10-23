@@ -2,4 +2,7 @@ Team A: This is our first conflict test.
 
 Line 3 added by team B.
 Line 2 added by team A.
+
+
+Squash test part 2
 Squash test part 1
