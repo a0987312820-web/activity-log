@@ -1,1 +1,1 @@
-Welcome to our project!
+Team A: This is our first conflict test.
