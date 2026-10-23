@@ -1,1 +1,2 @@
 Team A: This is our first conflict test.
+Line 2 added by team A.
