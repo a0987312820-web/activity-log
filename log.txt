@@ -8,3 +8,5 @@ Squash test part 2
 Squash test part 1
 
 Rebase test log
+
+Fast-forward test line
