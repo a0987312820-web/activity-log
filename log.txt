@@ -1,1 +1,1 @@
-Team B: This is conflicting content!
+Team A: This is our first conflict test.
