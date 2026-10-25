@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.9", "3.10", "3.11"] # 跨 3 種 Python 版本的測試矩陣
+        python-version: ["3.10", "3.11", "3.12"] # 跨 3 種 Python 版本的測試矩陣
 
     steps:
       - name: Checkout repository
